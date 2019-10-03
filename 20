@@ -1,0 +1,2 @@
+(“[0m”)ATTACK UDP RANDOM 
+Usage: ./random <IP> <THREAS> <-1> <TIMES>
